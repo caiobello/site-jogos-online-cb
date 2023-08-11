@@ -34,5 +34,5 @@ Somos uma organização sem fins lucrativos dedicada a fornecer entretenimento d
 
 ## Autor
 
-Este site é mantido por Caio B. Zamana. Para mais informações, entre em contato através do email: exemplo@email.com
+Este site é mantido por Caio B. Zamana.
 
