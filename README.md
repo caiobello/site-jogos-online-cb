@@ -14,7 +14,6 @@ Este site oferece uma variedade de jogos online para você se divertir. Desde jo
 - [Xadrez](jogoshtml/Chess.html)
 - [Skate Pizza](jogoshtml/SkatePizza.html)
 - [Snake](jogoshtml/Snake.html)
-- [Espião One](jogoshtml/EspiaoOne.html)
 - [Tetris CB](jogoshtml/Tetris.html)
 - [Race Car Simulator](jogoshtml/RaceCarSimulator.html)
 - [Sticks Run Pro](jogoshtml/SticksRunPro.html)
