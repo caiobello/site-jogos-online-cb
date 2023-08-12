@@ -25,11 +25,6 @@ Este site oferece uma variedade de jogos online para você se divertir. Desde jo
 - [Aventura de Palito](jogoshtml/AventuraDePalito.html)
 - [Fish Hunt](jogoshtml/FishHunt.html)
 
-## Doações
-
-Somos uma organização sem fins lucrativos dedicada a fornecer entretenimento de qualidade. Se você quiser nos ajudar a continuar nosso trabalho, suas doações são muito apreciadas. Aceitamos doações via Pix, através do código QR abaixo:
-
-![QR Code Pix](images/qrcodepix.PNG)
 
 ## Autor
 
