@@ -28,7 +28,6 @@ Este site oferece uma variedade de jogos online para você se divertir. Desde jo
 
 ## Autor
 
-Este site é mantido por
 
 <table>
   <tr>
