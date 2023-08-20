@@ -28,5 +28,19 @@ Este site oferece uma variedade de jogos online para você se divertir. Desde jo
 
 ## Autor
 
-Este site é mantido por Caio B. Zamana.
+Este site é mantido por
 
+<table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/caiobello"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/caiobello">
+        <span><b>Caio B. Zamana</b></span>
+      </a>
+      <br>
+      <span>Desenvolvedor Full Stack</span>
+    </td>
+  </tr>
+</table>
